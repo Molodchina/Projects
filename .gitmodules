@@ -1,0 +1,6 @@
+[submodule "GUI-Testing"]
+	path = GUI-Testing
+	url = git@github.com:Molodchina/GUI-Testing.git
+[submodule "Static-Code-Analysis"]
+	path = Static-Code-Analysis
+	url = git@github.com:Molodchina/Static-Code-Analysis.git
