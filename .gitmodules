@@ -4,3 +4,6 @@
 [submodule "Static-Code-Analysis"]
 	path = Static-Code-Analysis
 	url = git@github.com:Molodchina/Static-Code-Analysis.git
+[submodule "CRUD-REST-API"]
+	path = CRUD-REST-API
+	url = git@github.com:Molodchina/CRUD-REST-API.git
